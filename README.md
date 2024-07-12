@@ -1,7 +1,7 @@
 ![obraz](https://github.com/user-attachments/assets/2a72c58a-9cbb-4cf6-ac61-771c9d9539ba)
 
 
-![favicon.png](favicon.png) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:multigit-com/python/edit/main/DOCS/HEAD.md)
+[<span style='font-size:20px;'>&#x270D;</span>](git@github.com:multigit-com/python/edit/main/DOCS/HEAD.md)
 
 # [www.videoinspect.com](http://www.videoinspect.com) 
 
