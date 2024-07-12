@@ -1,7 +1,11 @@
+![obraz](https://github.com/user-attachments/assets/2a72c58a-9cbb-4cf6-ac61-771c9d9539ba)
+
 
 ![favicon.png](favicon.png) [<span style='font-size:20px;'>&#x270D;</span>](git@github.com:multigit-com/python/edit/main/DOCS/HEAD.md)
 
 # [www.videoinspect.com](http://www.videoinspect.com) 
+
+Securing evidence for police purposes and in court proceedings
 
 [![GitHub stars](https://img.shields.io/github/stars/videoinspect/www.svg?style=flat&label=Star)](https://github.com/videoinspect/www/stargazers) [![GitHub forks](https://img.shields.io/github/forks/videoinspect/www.svg?style=flat&label=Fork)](https://github.com/videoinspect/www/fork) [![GitHub watchers](https://img.shields.io/github/watchers/videoinspect/www.svg?style=flat&label=Watch)](https://github.com/videoinspect/www/watchers) [![GitHub followers](https://img.shields.io/github/followers/videoinspect.svg?label=Follow)](https://github.com/videoinspect) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvideoinspect%2Fwww&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
