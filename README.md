@@ -19,21 +19,22 @@ Securing evidence for police purposes and in court proceedings
 + [softreck.com](http://softreck.com)
 + [telemonit.com](http://telemonit.com)
 
+## Video Examples
 
-### Captions Example:
+### Video Captions:
 ```yaml
 [John]: "Hey, did you hear about the new cafe downtown?"
 [Cafe Background Music]
 [Susan]: "Yeah, I heard it's really good!"
 ```
 
-### Transcription Example:
+### Video Transcription:
 ```yaml
 [John]: Hey, did you hear about the new cafe downtown?
 [Susan]: Yeah, I heard it's really good!
 ```
 
-### Video Description Example:
+### Video Description:
 ```yaml
 Video Title: New Cafe Downtown Review
 Description: Join John and Susan as they explore the hottest new cafe in town. From delicious pastries to freshly brewed coffee, they give you the inside scoop on what makes this place special. Don't forget to like, comment, and subscribe for more foodie adventures!
