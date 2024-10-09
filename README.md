@@ -20,6 +20,29 @@ Securing evidence for police purposes and in court proceedings
 + [telemonit.com](http://telemonit.com)
 
 
+### Captions Example:
+```yaml
+[John]: "Hey, did you hear about the new cafe downtown?"
+[Cafe Background Music]
+[Susan]: "Yeah, I heard it's really good!"
+```
+
+### Transcription Example:
+```yaml
+[John]: Hey, did you hear about the new cafe downtown?
+[Susan]: Yeah, I heard it's really good!
+```
+
+### Video Description Example:
+```yaml
+Video Title: New Cafe Downtown Review
+Description: Join John and Susan as they explore the hottest new cafe in town. From delicious pastries to freshly brewed coffee, they give you the inside scoop on what makes this place special. Don't forget to like, comment, and subscribe for more foodie adventures!
+Keywords: cafe review, new cafe, downtown, pastries, coffee, food review
+So, captions give you what's spoken and heard; transcriptions provide the entire script, and descriptions summarize the video’s essence. They’re a trio of tools, each enhancing your viewing experience in their own way!
+```
+
+
+
 ---
 
 <script type="module">    
